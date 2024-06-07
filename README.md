@@ -24,9 +24,9 @@ This project is a collaborative effort aimed at enhancing road safety. We have d
 
 <h2>Contributors</h2>
 <ul>
-  <li><a href="https://github.com/dev-ayushtrivedi">Ayush Trivedi</a></li>
-  <li><a href="https://github.com/sanSkar1022">Sanskar Upadhyay</a></li>
-  <li><a href="https://github.com/AdityaBadgotiya">Aditya Badgotiya</a></li>
+  <li><a href="https://github.com/dev-ayushtrivedi" target="_blank">Ayush Trivedi</a></li>
+  <li><a href="https://github.com/sanSkar1022" target="_blank">Sanskar Upadhyay</a></li>
+  <li><a href="https://github.com/AdityaBadgotiya" target="_blank">Aditya Badgotiya</a></li>
 </ul>
 
 
