@@ -32,7 +32,7 @@ This project is a collaborative effort aimed at enhancing road safety. We have d
 
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the GPL 3.0 License. See the LICENSE file for details.
 
 ## Acknowledgements
 We would like to thank our mentors and peers for their guidance and support throughout the development of this project.
