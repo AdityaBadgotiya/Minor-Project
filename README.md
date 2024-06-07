@@ -5,7 +5,7 @@
 This project is a collaborative effort aimed at enhancing road safety. We have developed an accident detection model using a video dataset and YOLOv8, and a real-time driver drowsiness detection system in Python.
 
 ## Features
-1. **Accident Detection**: Utilizes a video dataset and the YOLOv8 model to detect accidents. The model has been trained to recognize various types of accidents and can alert authorities in real-time.
+1. **Accident Detection**: Utilizes a video dataset and the YOLOv8 model to detect accidents. The model has been trained to recognize various types of accidents.
 2. **Driver Drowsiness Detection**: Monitors the driver in real-time using a webcam. The system can detect signs of drowsiness or inattention, and can alert the driver or stop the vehicle to prevent accidents.
 
 ## Prerequisites
