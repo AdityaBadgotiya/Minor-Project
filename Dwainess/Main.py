@@ -5,7 +5,6 @@ import imutils
 import dlib
 import cv2
 
-
 mixer.init()
 mixer.music.load("music.wav")
 
